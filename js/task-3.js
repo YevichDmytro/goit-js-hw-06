@@ -1,3 +1,5 @@
+console.log('\n');
+
 class StringBuilder {
   #value;
 
